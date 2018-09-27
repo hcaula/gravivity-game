@@ -6,3 +6,6 @@
 [Bb]uilds/*
 .DS_Store
 .vs
+Assembly-CSharp.csproj
+*.meta
+*.sln
